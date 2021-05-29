@@ -1,2 +1,2 @@
-# ASTU-ML-AI
-ASTU ML/AI eckovation course assignment
+# ASTU PCA assignment
+Eckovation course assignment based on ML/AI
